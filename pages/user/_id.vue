@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>User Page</h1>
-        <p>{{$router.params.id}}</p>
+        <p>id: {{$route.params.id}}</p>
     </div>
 </template>
 
