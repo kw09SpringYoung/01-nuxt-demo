@@ -7,6 +7,9 @@
         <a href="/">首页</a>
 
         <!-- router-link导航链接组件 -->
+        <h2>nuxt-link</h2>
+        <nuxt-link to="/">首页</nuxt-link>
+
         <h2>router-link</h2>
         <router-link to='/'>首页</router-link>
 
